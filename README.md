@@ -7,6 +7,6 @@ Hi!
 
 <div id="badges">
   <a href="https://komarev.com/ghpvc/?username=p3trovbg">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://komarev.com/ghpvc/?username=p3trovbg=green)" alt=""/>
   </a>
 </div>
