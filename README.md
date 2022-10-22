@@ -8,5 +8,5 @@ Hi there!
 <p align="left">
 <a href="https://discord.gg/P3trov#1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="P3trov#1117" height="30" width="40" /></a>
 </p>
-<h3 align="left">Certifactes:</h3>
+<a align="left" href="https://github.com/p3trovbg/SoftUni#certificates">Certifactes:</a>
 
