@@ -1,4 +1,4 @@
-<div style="background-color:powderblue;">
+<div style="background-color: powderblue">
 Hi there!
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
