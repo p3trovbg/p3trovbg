@@ -10,7 +10,7 @@ Hi there!
 </p>
 <a align="left" 
    href="https://github.com/p3trovbg/SoftUni#certificates" 
-   style="background-color: #4CAF50"
+   style="background-color #4CAF50"
    Certifactes
    </a>
 
