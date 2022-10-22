@@ -8,5 +8,16 @@ Hi there!
 <p align="left">
 <a href="https://discord.gg/P3trov#1117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="P3trov#1117" height="30" width="40" /></a>
 </p>
-<a align="left" href="https://github.com/p3trovbg/SoftUni#certificates">Certifactes:</a>
+<a align="left" 
+   href="https://github.com/p3trovbg/SoftUni#certificates" 
+   style="background-color: #4CAF50,
+  border: none,
+  color: white,
+  padding: 15px 32px,
+  text-align: center,
+  text-decoration: none,
+  display: inline-block,
+  font-size: 16px,">
+   Certifactes
+   </a>
 
