@@ -2,7 +2,7 @@
 Hi there!
 <div>
 <div style="display: flex">
-      <a align="center" href="https://github.com/p3trovbg/SoftUni#certificates">
+      <a align="center" href="https://github.com/p3trovbg/SoftUni#Certificates">
       <img src="https://img.shields.io/badge/Certificates-Click-green"/>
       </a>
     </div>
